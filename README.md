@@ -4,7 +4,7 @@
 
 Esse é o projeto "Recriando a página inicial do Instagram" do Bootcamp "HTML Web Developer" da Digital Innovation One.
 
-### Utilizando apenas:
+### Nível de conhecimento(de acordo com o Bootcamp):
 
 - HTML básico
 - CSS básico
