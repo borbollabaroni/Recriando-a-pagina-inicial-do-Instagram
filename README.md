@@ -7,4 +7,4 @@ Esse é o projeto "Recriando a página inicial do Instagram" do Bootcamp "HTML W
 ### Utilizando apenas:
 
 - HTML básico
-- CSS básicoS
+- CSS básico
